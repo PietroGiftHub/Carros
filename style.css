@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+* :root {
+  color:  var(--#E28625);
+  color:  var(--#006971);
+  color:  var(--#004140);
+}
+
